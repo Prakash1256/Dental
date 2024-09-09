@@ -1,3 +1,6 @@
+DeployedLink :- https://smileslot.netlify.app/
+
+
 ![Smile Slot Logo(1)](https://user-images.githubusercontent.com/114407593/237023642-6049b701-bd06-415a-a72d-f9e745da54a0.png)
 
 ![smileslot_flowchart](https://user-images.githubusercontent.com/114407593/237023316-5c3108eb-dbb9-40a7-83cd-111cefae1651.png)
